@@ -1,0 +1,16 @@
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/repository/PropertyRepository.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/service/PropertyService.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JwtTokenUtil.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/resource/JwtTokenResponse.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JwtInMemoryUserDetailsService.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JwtUserDetails.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JWTWebSecurityConfig.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/resource/AuthenticationException.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/entity/Property.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/SpringbootDemoH2Application.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/resource/JwtTokenRequest.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/resource/JwtAuthenticationRestController.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JwtTokenAuthorizationOncePerRequestFilter.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/BCryptEncoderTest.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/jwt/JwtUnAuthorizedResponseAuthenticationEntryPoint.java
+/Users/ramesh/SpringBootProjects/Springboot-Playground/springboot-demo-h2-jwt/src/main/java/com/spring/controller/PropertyController.java
